@@ -1,18 +1,16 @@
 # ISEC6000SecureDevOps-A1
-Repository to push ISEC6000 Secure DevOps Assignment 1 
-
-
-# ISEC6000 Secure DevOps Project
 
 This repository contains the initial infrastructure setup for the ISEC6000 Secure DevOps project. Below are the steps to set up the infrastructure and the corresponding screenshots for reference.
 
-## Task 1: Set Up Initial Infrastructure [20]
+## Task 1: Set Up Initial Infrastructure 
 
 ### Step 1: Create a Kubernetes Cluster on GKE (or equivalent tool)
 
 1. **Log in to your Google Cloud Console.**
    
 ![t1_1](https://github.com/amna74/ISEC6000SecureDevOps-A1/assets/64349999/47d5eeb1-4f2c-4e48-8ec9-4f3f15921c35)
+
+
 ![t1_5](https://github.com/amna74/ISEC6000SecureDevOps-A1/assets/64349999/4f6d4548-f1f5-4db4-b543-0c39efbed8e8)
 
 2. **Navigate to the Kubernetes Engine section and click "Create Cluster."**
@@ -54,9 +52,6 @@ This repository contains the initial infrastructure setup for the ISEC6000 Secur
 
 ![t2_3](https://github.com/amna74/ISEC6000SecureDevOps-A1/assets/64349999/466ac36b-5f4c-49e3-86bc-1dca9b0a89d1)
 
-6. **Click "Create repository."**
-
-   ![Create Repository](screenshots/create_repository_button.png)
 
 
 
