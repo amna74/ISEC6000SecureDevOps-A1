@@ -1,4 +1,4 @@
-# ISEC6000SecureDevOps-A1
+# ISEC6000SecureDevOps-A1-Task1 
 
 This repository contains the initial infrastructure setup for the ISEC6000 Secure DevOps project. Below are the steps to set up the infrastructure and the corresponding screenshots for reference.
 
